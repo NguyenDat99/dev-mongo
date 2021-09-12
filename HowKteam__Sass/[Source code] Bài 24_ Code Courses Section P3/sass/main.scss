@@ -1,0 +1,24 @@
+@import './abstracts/variables';
+@import './abstracts/mixins';
+
+@import './base/animations';
+@import './base/base';
+@import './base/typography';
+@import './base/utilities';
+
+@import './components/buttons';
+@import './components/composition';
+@import './components/skill-box';
+// main.scss
+@import './components/card';
+
+@import './layout/header';
+@import './layout/grid';
+
+
+@import './pages/home';
+
+
+
+
+
